@@ -38,7 +38,8 @@ To access the Power BI dashboard file, use the following link:
 ## 🔹 **📊 Dashboard Overview**
 This second iteration consolidates the dashboard into a single, focused page, designed to give job seekers the most critical market insights at their fingertips.
 
-![Dashboard Page 1](/Assest/DataDashboard.png)
+[![Dashboard Page 1](/Assest/DataDashboard.png)](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
+
 
 This page serves as a central hub for navigating the data job market. It highlights essential KPIs such as **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. Additionally, users can explore **Skill Popularity** (measured by count or percentage) and compare **Salaries across Job Titles**, all designed to offer a clear and streamlined overview.
 
