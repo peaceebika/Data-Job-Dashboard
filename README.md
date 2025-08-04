@@ -18,7 +18,7 @@ To access the Power BI dashboard file, use the following link:
 
 * **🧩 Data Modeling**: Building efficient data models with relationships (Star Schema principles).
 
-* **🧮 DAX Fundamentals**: Creating calculations and aggregations to derive key insights.
+* **🧮 DAX**: Creating calculations and aggregations to derive key insights.
 
 * **📊 Visualizations Utilized**:
   * **📈 Core Charts**: Column, Bar, Line, and Area charts for comparisons and trends.
