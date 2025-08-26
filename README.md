@@ -31,7 +31,7 @@ To access the Power BI dashboard file, use the following link:
 
   * **📊 Chart Variety**: Selecting from common and uncommon chart types for effective storytelling.
 * **🔁 Interactive Features:**
-  * *Slicers* to enable real-time filtering by job title.
+  * *Slicers* to enable real-time filtering by job title(data science).
   * *Buttons & Bookmarks* for smooth, seamless navigation.
 
 
